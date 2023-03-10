@@ -1,0 +1,5 @@
+c:\users\alexi\documents\visual studio 2012\Projects\reajuste_salarial_29_03\reajuste_salarial_29_03\bin\Debug\reajuste_salarial_29_03.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\reajuste_salarial_29_03\reajuste_salarial_29_03\bin\Debug\reajuste_salarial_29_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\reajuste_salarial_29_03\reajuste_salarial_29_03\bin\Debug\reajuste_salarial_29_03.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\reajuste_salarial_29_03\reajuste_salarial_29_03\obj\Debug\reajuste_salarial_29_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\reajuste_salarial_29_03\reajuste_salarial_29_03\obj\Debug\reajuste_salarial_29_03.pdb

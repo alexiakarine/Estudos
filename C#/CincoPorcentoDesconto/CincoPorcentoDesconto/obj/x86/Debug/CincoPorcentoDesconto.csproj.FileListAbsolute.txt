@@ -1,0 +1,9 @@
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.Form1.resources
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.Properties.Resources.resources
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.csproj.GenerateResource.Cache
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\bin\Debug\CincoPorcentoDesconto.exe
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\bin\Debug\CincoPorcentoDesconto.pdb
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.exe
+C:\Users\PCLab01_02\AppData\Local\Temporary Projects\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.pdb
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\CincoPorcentoDesconto\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.exe
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\CincoPorcentoDesconto\CincoPorcentoDesconto\obj\x86\Debug\CincoPorcentoDesconto.pdb

@@ -1,0 +1,6 @@
+C:\Users\alexi\source\repos\EX8_sexo\bin\Debug\EX8_sexo.exe.config
+C:\Users\alexi\source\repos\EX8_sexo\bin\Debug\EX8_sexo.exe
+C:\Users\alexi\source\repos\EX8_sexo\bin\Debug\EX8_sexo.pdb
+C:\Users\alexi\source\repos\EX8_sexo\obj\Debug\EX8_sexo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX8_sexo\obj\Debug\EX8_sexo.exe
+C:\Users\alexi\source\repos\EX8_sexo\obj\Debug\EX8_sexo.pdb

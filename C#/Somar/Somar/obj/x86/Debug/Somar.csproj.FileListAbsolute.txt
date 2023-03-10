@@ -1,0 +1,9 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\obj\x86\Debug\Somar.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\obj\x86\Debug\Somar.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\obj\x86\Debug\Somar.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\bin\Debug\Somar.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\bin\Debug\Somar.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\obj\x86\Debug\Somar.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Somar\obj\x86\Debug\Somar.pdb
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\Somar\Somar\obj\x86\Debug\Somar.exe
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\Somar\Somar\obj\x86\Debug\Somar.pdb

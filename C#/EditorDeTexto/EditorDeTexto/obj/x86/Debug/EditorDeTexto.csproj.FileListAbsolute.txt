@@ -1,0 +1,11 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\obj\x86\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\obj\x86\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.exe
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\EditorDeTexto\EditorDeTexto\obj\x86\Debug\EditorDeTexto.pdb

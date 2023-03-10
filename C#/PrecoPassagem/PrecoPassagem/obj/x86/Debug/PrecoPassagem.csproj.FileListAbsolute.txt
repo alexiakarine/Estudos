@@ -1,0 +1,7 @@
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\bin\Debug\PrecoPassagem.exe
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\bin\Debug\PrecoPassagem.pdb
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\obj\x86\Debug\PrecoPassagem.Form1.resources
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\obj\x86\Debug\PrecoPassagem.Properties.Resources.resources
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\obj\x86\Debug\PrecoPassagem.csproj.GenerateResource.Cache
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\obj\x86\Debug\PrecoPassagem.exe
+E:\ETEC 2 SEM\Desenvolvimento de Sistemas\PrecoPassagem\PrecoPassagem\obj\x86\Debug\PrecoPassagem.pdb

@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX11_notasMensagem\bin\Debug\EX11_notasMensagem.exe.config
+C:\Users\alexi\source\repos\EX11_notasMensagem\bin\Debug\EX11_notasMensagem.exe
+C:\Users\alexi\source\repos\EX11_notasMensagem\bin\Debug\EX11_notasMensagem.pdb
+C:\Users\alexi\source\repos\EX11_notasMensagem\obj\Debug\EX11_notasMensagem.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX11_notasMensagem\obj\Debug\EX11_notasMensagem.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX11_notasMensagem\obj\Debug\EX11_notasMensagem.exe
+C:\Users\alexi\source\repos\EX11_notasMensagem\obj\Debug\EX11_notasMensagem.pdb

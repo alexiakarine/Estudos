@@ -1,0 +1,6 @@
+c:\users\alexi\documents\visual studio 2012\Projects\IMC_29_03\IMC_29_03\bin\Debug\IMC_29_03.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\IMC_29_03\IMC_29_03\obj\Debug\IMC_29_03.csprojResolveAssemblyReference.cache
+c:\users\alexi\documents\visual studio 2012\Projects\IMC_29_03\IMC_29_03\bin\Debug\IMC_29_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\IMC_29_03\IMC_29_03\bin\Debug\IMC_29_03.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\IMC_29_03\IMC_29_03\obj\Debug\IMC_29_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\IMC_29_03\IMC_29_03\obj\Debug\IMC_29_03.pdb

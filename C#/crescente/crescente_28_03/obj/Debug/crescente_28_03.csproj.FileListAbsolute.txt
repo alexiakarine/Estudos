@@ -1,0 +1,6 @@
+c:\users\alexi\documents\visual studio 2012\Projects\crescente_28_03\crescente_28_03\bin\Debug\crescente_28_03.exe.config
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\crescente_28_03\crescente_28_03\obj\Debug\crescente_28_03.csprojResolveAssemblyReference.cache
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\crescente_28_03\crescente_28_03\bin\Debug\crescente_28_03.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\crescente_28_03\crescente_28_03\bin\Debug\crescente_28_03.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\crescente_28_03\crescente_28_03\obj\Debug\crescente_28_03.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\crescente_28_03\crescente_28_03\obj\Debug\crescente_28_03.pdb

@@ -1,0 +1,11 @@
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\bin\Debug\MinhaLoja.exe
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\bin\Debug\MinhaLoja.pdb
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.csprojResolveAssemblyReference.cache
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.frmLogin.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.Properties.Resources.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.csproj.GenerateResource.Cache
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.exe
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.pdb
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.frmPrincipal.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.frmConsultaProd.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\MinhaLoja\MinhaLoja\obj\x86\Debug\MinhaLoja.frmCadastroProd.resources

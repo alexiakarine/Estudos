@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX3_qtdeRacao", "EX3_qtdeRacao.csproj", "{63B2F6E1-40D7-4800-B167-048FDA21FC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B2F6E1-40D7-4800-B167-048FDA21FC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B2F6E1-40D7-4800-B167-048FDA21FC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B2F6E1-40D7-4800-B167-048FDA21FC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B2F6E1-40D7-4800-B167-048FDA21FC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B3F942-FE5C-4556-BAEA-AF75C9DACFA7}
+	EndGlobalSection
+EndGlobal

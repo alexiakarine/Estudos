@@ -1,0 +1,6 @@
+c:\users\alexi\documents\visual studio 2012\Projects\laco_03\laco_03\bin\Debug\laco_03.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\laco_03\laco_03\bin\Debug\laco_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\laco_03\laco_03\bin\Debug\laco_03.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\laco_03\laco_03\obj\Debug\laco_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\laco_03\laco_03\obj\Debug\laco_03.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_03\laco_03\obj\Debug\laco_03.csproj.CoreCompileInputs.cache

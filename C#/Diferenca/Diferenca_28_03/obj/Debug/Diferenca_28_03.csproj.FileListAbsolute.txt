@@ -1,0 +1,6 @@
+c:\users\alexi\documents\visual studio 2012\Projects\Diferenca_28_03\Diferenca_28_03\bin\Debug\Diferenca_28_03.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\Diferenca_28_03\Diferenca_28_03\bin\Debug\Diferenca_28_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\Diferenca_28_03\Diferenca_28_03\bin\Debug\Diferenca_28_03.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\Diferenca_28_03\Diferenca_28_03\obj\Debug\Diferenca_28_03.exe
+c:\users\alexi\documents\visual studio 2012\Projects\Diferenca_28_03\Diferenca_28_03\obj\Debug\Diferenca_28_03.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\Diferenca_28_03\Diferenca_28_03\obj\Debug\Diferenca_28_03.csprojResolveAssemblyReference.cache

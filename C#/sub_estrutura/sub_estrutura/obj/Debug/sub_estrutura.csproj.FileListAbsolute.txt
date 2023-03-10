@@ -1,0 +1,2 @@
+c:\users\alexi\documents\visual studio 2012\Projects\sub_estrutura\sub_estrutura\bin\Debug\sub_estrutura.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\sub_estrutura\sub_estrutura\obj\Debug\sub_estrutura.csprojResolveAssemblyReference.cache

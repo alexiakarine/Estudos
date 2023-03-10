@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX6_ParOuImpar", "EX6_ParOuImpar.csproj", "{8BC4ED1F-3848-406F-8612-D826B50E2135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC4ED1F-3848-406F-8612-D826B50E2135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC4ED1F-3848-406F-8612-D826B50E2135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC4ED1F-3848-406F-8612-D826B50E2135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC4ED1F-3848-406F-8612-D826B50E2135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0635B008-9FDB-476A-8CAD-736C772254E2}
+	EndGlobalSection
+EndGlobal

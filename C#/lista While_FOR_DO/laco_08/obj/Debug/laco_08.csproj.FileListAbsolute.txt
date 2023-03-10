@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\laco_08\bin\Debug\laco_08.exe.config
+C:\Users\alexi\source\repos\laco_08\bin\Debug\laco_08.exe
+C:\Users\alexi\source\repos\laco_08\bin\Debug\laco_08.pdb
+C:\Users\alexi\source\repos\laco_08\obj\Debug\laco_08.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\laco_08\obj\Debug\laco_08.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\laco_08\obj\Debug\laco_08.exe
+C:\Users\alexi\source\repos\laco_08\obj\Debug\laco_08.pdb

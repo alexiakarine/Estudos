@@ -1,0 +1,3 @@
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\CalculadoraTinta\CalculadoraTinta\obj\x86\Release\AlturaLargura.Form1.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\CalculadoraTinta\CalculadoraTinta\obj\x86\Release\AlturaLargura.Properties.Resources.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\CalculadoraTinta\CalculadoraTinta\obj\x86\Release\CalculadoraTinta.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+c:\users\alexi\documents\visual studio 2012\Projects\laco_05\laco_05\bin\Debug\laco_05.exe.config
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_05\laco_05\bin\Debug\laco_05.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_05\laco_05\bin\Debug\laco_05.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_05\laco_05\obj\Debug\laco_05.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_05\laco_05\obj\Debug\laco_05.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_05\laco_05\obj\Debug\laco_05.csprojAssemblyReference.cache
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_05\laco_05\obj\Debug\laco_05.csproj.CoreCompileInputs.cache

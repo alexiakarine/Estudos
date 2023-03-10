@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX3_qtdeRacao\bin\Debug\EX3_qtdeRacao.exe.config
+C:\Users\alexi\source\repos\EX3_qtdeRacao\bin\Debug\EX3_qtdeRacao.exe
+C:\Users\alexi\source\repos\EX3_qtdeRacao\bin\Debug\EX3_qtdeRacao.pdb
+C:\Users\alexi\source\repos\EX3_qtdeRacao\obj\Debug\EX3_qtdeRacao.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX3_qtdeRacao\obj\Debug\EX3_qtdeRacao.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX3_qtdeRacao\obj\Debug\EX3_qtdeRacao.exe
+C:\Users\alexi\source\repos\EX3_qtdeRacao\obj\Debug\EX3_qtdeRacao.pdb

@@ -1,0 +1,5 @@
+c:\users\alexi\documents\visual studio 2012\Projects\funcao_media_14_03\funcao_media_14_03\bin\Debug\funcao_media_14_03.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\funcao_media_14_03\funcao_media_14_03\obj\Debug\funcao_media_14_03.csprojResolveAssemblyReference.cache
+c:\users\alexi\documents\visual studio 2012\Projects\funcao_media_14_03\funcao_media_14_03\obj\Debug\funcao_media_14_03.Form1.resources
+c:\users\alexi\documents\visual studio 2012\Projects\funcao_media_14_03\funcao_media_14_03\obj\Debug\funcao_media_14_03.Properties.Resources.resources
+c:\users\alexi\documents\visual studio 2012\Projects\funcao_media_14_03\funcao_media_14_03\obj\Debug\funcao_media_14_03.csproj.GenerateResource.Cache

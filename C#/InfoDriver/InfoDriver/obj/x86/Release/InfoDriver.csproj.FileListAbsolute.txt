@@ -1,0 +1,7 @@
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\bin\Release\InfoDriver.exe
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\bin\Release\InfoDriver.pdb
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\obj\x86\Release\InfoDriver.Form1.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\obj\x86\Release\InfoDriver.Properties.Resources.resources
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\obj\x86\Release\InfoDriver.csproj.GenerateResource.Cache
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\obj\x86\Release\InfoDriver.exe
+I:\ETEC 2 SEM\Desenvolvimento de Sistemas\InfoDriver\InfoDriver\obj\x86\Release\InfoDriver.pdb

@@ -1,0 +1,7 @@
+c:\users\alexi\documents\visual studio 2012\Projects\laco_while_ex01\laco_while_ex01\bin\Debug\laco_while_ex01.exe.config
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_while_ex01\laco_while_ex01\bin\Debug\laco_while_ex01.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_while_ex01\laco_while_ex01\bin\Debug\laco_while_ex01.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_while_ex01\laco_while_ex01\obj\Debug\laco_while_ex01.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_while_ex01\laco_while_ex01\obj\Debug\laco_while_ex01.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_while_ex01\laco_while_ex01\obj\Debug\laco_while_ex01.csprojAssemblyReference.cache
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\laco_while_ex01\laco_while_ex01\obj\Debug\laco_while_ex01.csproj.CoreCompileInputs.cache

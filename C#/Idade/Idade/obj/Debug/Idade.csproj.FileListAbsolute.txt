@@ -1,0 +1,12 @@
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\bin\Debug\Idade.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\bin\Debug\Idade.exe
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\bin\Debug\Idade.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\obj\Debug\Idade.csprojResolveAssemblyReference.cache
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\obj\Debug\Idade.Form1.resources
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\obj\Debug\Idade.Properties.Resources.resources
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\obj\Debug\Idade.csproj.GenerateResource.Cache
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\obj\Debug\Idade.exe
+c:\users\alexi\documents\visual studio 2012\Projects\Idade\Idade\obj\Debug\Idade.pdb
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\21_03_2019\Idade\Idade\bin\Debug\Idade.exe.config
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\21_03_2019\Idade\Idade\obj\Debug\Idade.exe
+C:\Users\alexi\Documents\Visual Studio 2012\Projects\21_03_2019\Idade\Idade\obj\Debug\Idade.pdb

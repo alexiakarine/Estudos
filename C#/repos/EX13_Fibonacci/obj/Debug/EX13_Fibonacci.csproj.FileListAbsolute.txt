@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX13_Fibonacci\bin\Debug\EX13_Fibonacci.exe.config
+C:\Users\alexi\source\repos\EX13_Fibonacci\bin\Debug\EX13_Fibonacci.exe
+C:\Users\alexi\source\repos\EX13_Fibonacci\bin\Debug\EX13_Fibonacci.pdb
+C:\Users\alexi\source\repos\EX13_Fibonacci\obj\Debug\EX13_Fibonacci.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX13_Fibonacci\obj\Debug\EX13_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX13_Fibonacci\obj\Debug\EX13_Fibonacci.exe
+C:\Users\alexi\source\repos\EX13_Fibonacci\obj\Debug\EX13_Fibonacci.pdb

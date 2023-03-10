@@ -1,0 +1,6 @@
+c:\users\alexi\documents\visual studio 2012\Projects\operador_nao\operador_nao\bin\Debug\operador_nao.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\operador_nao\operador_nao\bin\Debug\operador_nao.exe
+c:\users\alexi\documents\visual studio 2012\Projects\operador_nao\operador_nao\bin\Debug\operador_nao.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\operador_nao\operador_nao\obj\Debug\operador_nao.csprojResolveAssemblyReference.cache
+c:\users\alexi\documents\visual studio 2012\Projects\operador_nao\operador_nao\obj\Debug\operador_nao.exe
+c:\users\alexi\documents\visual studio 2012\Projects\operador_nao\operador_nao\obj\Debug\operador_nao.pdb

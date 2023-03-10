@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX9_menu\bin\Debug\EX9_menu.exe.config
+C:\Users\alexi\source\repos\EX9_menu\bin\Debug\EX9_menu.exe
+C:\Users\alexi\source\repos\EX9_menu\bin\Debug\EX9_menu.pdb
+C:\Users\alexi\source\repos\EX9_menu\obj\Debug\EX9_menu.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX9_menu\obj\Debug\EX9_menu.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX9_menu\obj\Debug\EX9_menu.exe
+C:\Users\alexi\source\repos\EX9_menu\obj\Debug\EX9_menu.pdb

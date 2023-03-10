@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX12_notaTurma\bin\Debug\EX12_notaTurma.exe.config
+C:\Users\alexi\source\repos\EX12_notaTurma\bin\Debug\EX12_notaTurma.exe
+C:\Users\alexi\source\repos\EX12_notaTurma\bin\Debug\EX12_notaTurma.pdb
+C:\Users\alexi\source\repos\EX12_notaTurma\obj\Debug\EX12_notaTurma.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX12_notaTurma\obj\Debug\EX12_notaTurma.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX12_notaTurma\obj\Debug\EX12_notaTurma.exe
+C:\Users\alexi\source\repos\EX12_notaTurma\obj\Debug\EX12_notaTurma.pdb

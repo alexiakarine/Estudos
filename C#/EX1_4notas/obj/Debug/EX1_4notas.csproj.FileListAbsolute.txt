@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX1_4notas\bin\Debug\EX1_4notas.exe.config
+C:\Users\alexi\source\repos\EX1_4notas\bin\Debug\EX1_4notas.exe
+C:\Users\alexi\source\repos\EX1_4notas\bin\Debug\EX1_4notas.pdb
+C:\Users\alexi\source\repos\EX1_4notas\obj\Debug\EX1_4notas.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX1_4notas\obj\Debug\EX1_4notas.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX1_4notas\obj\Debug\EX1_4notas.exe
+C:\Users\alexi\source\repos\EX1_4notas\obj\Debug\EX1_4notas.pdb

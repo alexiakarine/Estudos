@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EX13_CARRO\bin\Debug\EX13_CARRO.exe.config
+C:\Users\alexi\source\repos\EX13_CARRO\bin\Debug\EX13_CARRO.exe
+C:\Users\alexi\source\repos\EX13_CARRO\bin\Debug\EX13_CARRO.pdb
+C:\Users\alexi\source\repos\EX13_CARRO\obj\Debug\EX13_CARRO.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\EX13_CARRO\obj\Debug\EX13_CARRO.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EX13_CARRO\obj\Debug\EX13_CARRO.exe
+C:\Users\alexi\source\repos\EX13_CARRO\obj\Debug\EX13_CARRO.pdb

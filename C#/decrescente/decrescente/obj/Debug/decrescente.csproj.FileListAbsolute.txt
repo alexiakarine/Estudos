@@ -1,0 +1,5 @@
+c:\users\alexi\documents\visual studio 2012\Projects\decrescente\decrescente\bin\Debug\decrescente.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\decrescente\decrescente\bin\Debug\decrescente.exe
+c:\users\alexi\documents\visual studio 2012\Projects\decrescente\decrescente\bin\Debug\decrescente.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\decrescente\decrescente\obj\Debug\decrescente.exe
+c:\users\alexi\documents\visual studio 2012\Projects\decrescente\decrescente\obj\Debug\decrescente.pdb

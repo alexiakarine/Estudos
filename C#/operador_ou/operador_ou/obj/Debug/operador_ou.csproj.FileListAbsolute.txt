@@ -1,0 +1,5 @@
+c:\users\alexi\documents\visual studio 2012\Projects\operador_ou\operador_ou\bin\Debug\operador_ou.exe.config
+c:\users\alexi\documents\visual studio 2012\Projects\operador_ou\operador_ou\bin\Debug\operador_ou.exe
+c:\users\alexi\documents\visual studio 2012\Projects\operador_ou\operador_ou\bin\Debug\operador_ou.pdb
+c:\users\alexi\documents\visual studio 2012\Projects\operador_ou\operador_ou\obj\Debug\operador_ou.exe
+c:\users\alexi\documents\visual studio 2012\Projects\operador_ou\operador_ou\obj\Debug\operador_ou.pdb

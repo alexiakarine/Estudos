@@ -1,0 +1,12 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\bin\Debug\Concatenar.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\bin\Debug\Concatenar.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\obj\x86\Debug\Concatenar.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\obj\x86\Debug\Concatenar.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\obj\x86\Debug\Concatenar.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\obj\x86\Debug\Concatenar.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\obj\x86\Debug\Concatenar.Contatenar.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Concatenar\obj\x86\Debug\Concatenar.Form2.resources
+c:\users\etec\destkop\Concatenar\Concatenar\obj\x86\Debug\Concatenar.exe
+c:\users\etec\destkop\Concatenar\Concatenar\obj\x86\Debug\Concatenar.pdb
+C:\Users\Etec\Desktop\Concatenar\Concatenar\obj\x86\Debug\Concatenar.exe
+C:\Users\Etec\Desktop\Concatenar\Concatenar\obj\x86\Debug\Concatenar.pdb
